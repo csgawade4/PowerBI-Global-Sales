@@ -4,4 +4,4 @@ problem statement.
 • Performed Data Cleaning using Power Query editor to prepare data for further processes.
 • Developed model and created interactive dashboards based on the global sales to showcase
 various insights about the data.
-![Screenshot](Screenshot of the PowerBI Dashboard.png)
+
